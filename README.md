@@ -1,5 +1,7 @@
 **** If not configured correctly, this program WILL cause network problems ****
 
+This program is under heavy development and is only one component of a larger program. Currently this program does not output hashes, as its going to be stored in a database once that gets coded in.
+
 Sample output with 100Mbps upload:
 
 CPPDHTScraper.exe
